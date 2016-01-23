@@ -1,3 +1,5 @@
 GAMES
 target
+*.swp
+*.swo
 *~
